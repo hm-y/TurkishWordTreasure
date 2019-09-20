@@ -1,7 +1,5 @@
 # TurkishWordTreasure
 Android appication: Flash Cards to learn new vocabulary
-
-An introductory Android Aplication  
   
 Example screenshots:  
   
