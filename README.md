@@ -1,5 +1,5 @@
 # TurkishWordTreasure
-Android appication: Flash Cards to learn new vocabulary
+Implemented in Java on Android Studio
   
 Example screenshots:  
   
